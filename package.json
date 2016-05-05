@@ -1,0 +1,14 @@
+{
+    "name": "JSProject",
+    "version": "0.1.0",
+    "devDependencies": {
+        "eslint-grunt": "*",
+        "grunt": "*",
+        "grunt-contrib-eslint": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-eslint": "*",
+        "grunt-jshint-solid": "*",
+        "grunt-jslint": "*"
+    }
+}
