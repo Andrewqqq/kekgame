@@ -3,7 +3,7 @@
 
 // Функция define определяет модуль RequireJS
 // Первым параметром можно передать массив зависимостей: ["dep1", "dep2"]
-define(["BootState","LoadingState", "TiledState"], function () {
+define([], function () {
     "use strict";
 
     // Внутри модуля можно описать конструктор

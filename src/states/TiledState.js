@@ -98,7 +98,7 @@ define([
 						//console.log(livesPosition);
 
 		var lives;
-        lives = new Lives(this, livesPosition, {"texture": "playerSpritesheet", "group": "hud", "frame": 3, "spacing": 16});
+        lives = new Lives(this, livesPosition, {"texture": "player_spritesheet", "group": "hud", "frame": 3, "spacing": 16});
 				console.log("lives = ", lives);
 
         this.prefabs["lives"] = lives;
